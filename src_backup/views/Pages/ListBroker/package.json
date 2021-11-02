@@ -1,0 +1,6 @@
+{
+  "name": "ListBroker",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ListBroker.js"
+}

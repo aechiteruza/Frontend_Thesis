@@ -1,0 +1,6 @@
+{
+  "name": "FlowDesign",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./FlowDesign.js"
+}

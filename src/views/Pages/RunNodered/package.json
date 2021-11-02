@@ -1,0 +1,6 @@
+{
+    "name": "RunNodered",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./RunNodered.js"
+  }
